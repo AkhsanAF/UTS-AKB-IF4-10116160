@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SanzApps</string>
+    <string name="title_activity_but_nav">but_nav</string>
+    <string name="title_home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="title_here">Title Here</string>
+    <string name="description_is_here">Description is Here</string>
+    <string name="todo">TODO</string>
+    <string name="start">START</string>
+    <string name="next">NEXT</string>
+
+
+    <string name="slide_1_title">Arrived</string>
+    <string name="slide_1_desc">Welcome to SanzApps, You can see everythink, Have Fun!! </string>
+
+    <string name="slide_2_title">Explore</string>
+    <string name="slide_2_desc">Explore the SanzApps If u want to know about me.</string>
+
+    <string name="slide_3_title">Ready!</string>
+    <string name="slide_3_desc">Select The Start Button to Start Exploring SanzApps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="a">a.</string>
+    <string name="pp">TODO</string>
+
+</resources>
